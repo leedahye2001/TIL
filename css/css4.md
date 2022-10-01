@@ -1,5 +1,5 @@
 <h2>22.09.26</h2>
-<a href="[%EC%9A%A9-%EC%A0%95%EB%A6%AC-3](https://velog.io/@leedahye2001/CSS%EC%97%90-%EB%8C%80%ED%95%B4-%EB%AA%B0%EB%9E%90%EB%8D%98-%EB%82%B4%EC%9A%A9-%EC%A0%95%EB%A6%AC-4)">
+<a href="https://velog.io/@leedahye2001/CSS%EC%97%90-%EB%8C%80%ED%95%B4-%EB%AA%B0%EB%9E%90%EB%8D%98-%EB%82%B4%EC%9A%A9-%EC%A0%95%EB%A6%AC-4">
   danshye.log 바로가기 :)</a>
 <br>
 <h3>🙋‍♀️ 놓친 부분 정리!</h3>
