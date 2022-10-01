@@ -1,6 +1,11 @@
+<h2>22.09.19</h2>
+<a href="https://velog.io/@leedahye2001/CSS%EC%97%90-%EB%8C%80%ED%95%B4-%EB%AA%B0%EB%9E%90%EB%8D%98-%EB%82%B4%EC%9A%A9-%EC%A0%95%EB%A6%AC">danshye.log 바로가기 :)</a>
+<br>
+<h3>🙋‍♀️ 놓친 부분 정리!</h3>
+<br>
 
 
-<a href="https://velog.io/@leedahye2001/CSS%EC%97%90-%EB%8C%80%ED%95%B4-%EB%AA%B0%EB%9E%90%EB%8D%98-%EB%82%B4%EC%9A%A9-%EC%A0%95%EB%A6%AC">danshye.log 바로가기!</a>
+
 ### ✔️ CSS
 - HTML이나 XML과 같은 구조화 된 문서를 화면, 종이 등에 **어떻게 렌더링할 것인지**를 정의하기 위한 언어
 - HTML의 각 요소의 **style**을 정의하여 화면 등에 어떻게 렌더링하면 되는지 브라우저에게 설명하기 위한 언어
