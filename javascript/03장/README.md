@@ -1,4 +1,7 @@
-![hh3Mawr.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4c0c9417-16ba-442d-a4c8-20f6dcd62cbb/hh3Mawr.png)
+# 동기와 비동기 처리
+![hh3Mawr](https://user-images.githubusercontent.com/94473725/194252738-d25ae1b0-7f65-4cc2-9003-e9fbe31cf3cd.png)
+
+
 
 ## **동기처리**
 
@@ -121,7 +124,8 @@ sleep 함수와 유사하게 일정 시간이 경과한 이후에 콜백 함수�
 
 👉 **Promise를 사용하면 코드의 깊이가 깊어지는 것 방지**
 
-![FDzn5s0.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/87567c3e-f660-47ab-b228-256317deb168/FDzn5s0.png)
+![FDzn5s0](https://user-images.githubusercontent.com/94473725/194253284-12568016-c3c9-4553-8dc1-a4ff66d0a504.png)
+
 
 콜백 헬에 빠진 모습 ,,,
 
