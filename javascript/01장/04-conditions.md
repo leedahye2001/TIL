@@ -1,4 +1,10 @@
-## 04. 조건문
+<h2>22.10.06</h2>
+<a href="https://velog.io/@leedahye2001/%ED%98%BC%EC%9E%90%ED%95%98%EB%8A%94-JavaScript-5">danshye.log 바로가기 :)</a>
+<br>
+<h3>🙋‍♀️ 혼자하는 JavaScript!</h3>
+<br>
+
+### 04. 조건문
 `조건문`을 사용하면 특정 조건이 만족됐을 때 특정 코드를 실행할 수 있다.
 
 ### **if 문**
