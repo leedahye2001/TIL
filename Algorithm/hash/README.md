@@ -13,22 +13,23 @@
 
  
 
-<aside>
 💡 파이썬의 List나 JavaScript의 Array와 달리
 저장된 데이터를 순차적으로 찾는 게 아니라,
 `Key를 통해 Value 값을 찾기 때문에 빠름!`
 
-</aside>
+<br>
 
 ## HashTable 내부 구조
 
-**1. Hash Function (해시함수)**
+<b>1. Hash Function (해시함수)</b>
 
 : 임의의 길이를 갖는 임의의 데이터에 대해 고정된 길이의 데이터로 매핑하는 함수
 
 임의의 길이를 갖는 데이터를 해시함수에 적용하여 나온 고정된 길이의 값을 `해시 값`이라고 함.
 
-![images_taeha7b_post_32dfe1bd-f735-4c71-9276-e3550e89b370_해싱](https://user-images.githubusercontent.com/94473725/194710368-1833287f-99d3-4bea-aef2-d65963586a04.png)
+![images_taeha7b_post_571e3d30-cd7d-4dd4-8f67-a7bf313230b3_hash (1)](https://user-images.githubusercontent.com/94473725/194716161-01a11960-c15d-40b0-98b9-d827fc51b1b9.png)
+
+
 
 **Hashing(해싱)**
 
@@ -36,11 +37,11 @@
 
 해시테이블에서 key로 ‘대한민국’, ’김태하’, ‘1234’, ’56789’를 갖고, 각각 '만세', '개발자', '아라비아', '숫자'를 `value 값` 으로 가짐
 
-해시함수를 통해서 **해시 값**으로 **영문자와 소문자가 섞인 해시 값**을 얻을 수도 있고, 이 값을 **정수로 바꾼 해시 값**도 얻을 수 있음.
+해시함수를 통해서 <b>해시 값</b>으로 <b>영문자와 소문자가 섞인 해시 값</b>을 얻을 수도 있고, 이 값을 <b>정수로 바꾼 해시 값</b>도 얻을 수 있음.
 
 아래의 예는 해시 함수를 통해 해시 값을 정수로 얻은 것
 
-이렇게 얻은 해시 값을 **buckets(버킷. 데이터가 저장되는 공간)**의 크기로 나누고, 나머지는 버킷의 **인덱스**로 가짐.
+이렇게 얻은 해시 값을 <b>buckets(버킷. 데이터가 저장되는 공간)</b>의 크기로 나누고, 나머지는 버킷의 **인덱스**로 가짐.
 
 따라서, 아래의 예에서는
 
@@ -49,7 +50,7 @@
 
 해시 값을 버킷의 크기로 나누고 나온 나머지를 인덱스로 갖다보니 `나머지가 같은 값`이 나올 수 있음.
 
-이때, **충돌(Collision)**이 발생하게 됨. 충돌의 해결 방법에는 여러가지가 있는데 이 중 **Chaining**이라는 방법이 있음.
+이때, <b>충돌(Collision)</b>이 발생하게 됨. 충돌의 해결 방법에는 여러가지가 있는데 이 중 <b>Chaining</b>이라는 방법이 있음.
 
 **2) 충돌 해결 방법 : Chaining**
 
@@ -119,14 +120,14 @@ f2231d2871e690a2995704f7a297bd7bc64be720
 
 ⭐️ **hash table 만들기**
 
-<aside>
-💡 **list comprehension**
-**[출력표현식 for 요소 in 입력 sequence [if 조건문]]
 
--** 입력 sequence는 Iteration이 가능한 데이터 Sequence 혹은 컬렉션
-- [if 조건문]에서 **[]**는 리스트 괄호가 아니라 **옵션**이라는 뜻, 즉 조건이 있을 때만 넣으면 된다는 뜻
+💡 <b>list comprehension</b>
+<b>[출력표현식 for 요소 in 입력 sequence [if 조건문]]</b>
 
-</aside>
+- 입력 sequence는 Iteration이 가능한 데이터 Sequence 혹은 컬렉션
+- [if 조건문]에서 <b>[]</b>는 리스트 괄호가 아니라 <b>옵션</b>이라는 뜻, 즉 조건이 있을 때만 넣으면 된다는 뜻
+
+
 
 ```python
 # ex) hash table 만들기
@@ -161,7 +162,7 @@ print(ord(data1[0], ord(data4[0])
 
 ⭐️ **해쉬 테이블 값 저장 예시**
 
-- **data** : value와 같이 data와 value를 넣으면, 해당 data에 대한 key를 찾아서 `해당 key에 대응하는 해쉬주소에 value를 저장`하는 예
+- <b>data</b> : value와 같이 data와 value를 넣으면, 해당 data에 대한 key를 찾아서 `해당 key에 대응하는 해쉬주소에 value를 저장`하는 예
 
 ```python
 def storage_data(data, value):
@@ -178,4 +179,4 @@ storage_data('dh', '01099994444')
 ## 해쉬 테이블 시간 복잡도
 
 - 평균의 경우(Collision이 없는 경우)는 **`O(1)`**
-- 최악의 경우(Collision이 있는 경우)는 `**O(n)**`
+- 최악의 경우(Collision이 있는 경우)는 **`O(n)`**
