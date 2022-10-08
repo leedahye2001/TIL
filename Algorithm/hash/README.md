@@ -1,3 +1,11 @@
+<h2>22.10.08</h2>
+<a href="https://velog.io/@leedahye2001/Algorithm-Hash-Python">danshye.log 바로가기 :)</a>
+<br>
+<h3>🙋‍♀️ [Algorithm] Hash - Python</h3>
+<br>
+
+
+
 ## HashTable
 
 : Key와 Value의 쌍으로 데이터를 저장하는 자료구조
