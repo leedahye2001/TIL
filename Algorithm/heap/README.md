@@ -1,3 +1,9 @@
+<h2>22.10.09</h2>
+<a href="https://velog.io/@leedahye2001/Algorithm-Heap-Python">danshye.log 바로가기 :)</a>
+<br>
+<h3>🙋‍♀️ [Algorithm] Heap - Python</h3>
+<br>
+
 ![다운로드](https://user-images.githubusercontent.com/94473725/194716045-5c13fa57-9021-465e-8cb0-3e9bea661278.png)
 
 
