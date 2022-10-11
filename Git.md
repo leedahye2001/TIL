@@ -1,3 +1,11 @@
+<h2>22.10.11</h2>
+<a href="https://velog.io/@leedahye2001/Git-Pull-Request-%EB%82%A0%EB%A6%AC%EA%B8%B0-sb5o4of3">danshye.log 바로가기 :)</a>
+<br>
+<h3>🙋‍♀️ GitHub 공부!</h3>
+<br>
+
+
+
 ## [Git] Pull Request 날리기
 
 ### ⚡️ 코드 기여 원리 (Fork와 Pull Request)
