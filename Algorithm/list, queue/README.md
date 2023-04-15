@@ -1,3 +1,11 @@
+<h2>23.04.15</h2>
+<a href="https://velog.io/@leedahye2001/%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EC%8A%A4%ED%83%9D-%ED%81%90">danshye.log 바로가기 :)</a>
+<br>
+<h3>🙋‍♀️ [Algorithm] List, Queue - c++</h3>
+<br>
+
+
+
 ## 2. 선형 리스트(Linear List)
 
 선형리스트는 일정한 순서에 의해 나열된 자료 구조이다.
