@@ -1,3 +1,10 @@
+<h2>23.05.12</h2>
+<a href="https://velog.io/@leedahye2001/%EA%B7%B8%EB%A6%AC%EB%94%94-DP">danshye.log 바로가기 :)</a>
+<br>
+<h3>🙋‍♀️ [Algorithm] Greedy, DP - python</h3>
+<br>
+
+
 ## 1. 그리디
 
 ### 그리디 : 현재 상황에서 지금 당장 좋은 것만 선택
