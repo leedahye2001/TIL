@@ -1,3 +1,9 @@
+<h2>23.05.30</h2>
+<a href="https://velog.io/@leedahye2001/%EA%B5%AC%ED%98%84-%EB%B0%8F-%EA%B7%B8%EB%9E%98%ED%94%84-%EC%9D%B4%EB%A1%A0">danshye.log 바로가기 :)</a>
+<br>
+<h3>🙋‍♀️ [Algorithm] Graph theory and implementation - python</h3>
+<br>
+
 ## 1. 그래프 이론 (간단 요약)
 
 ### 1-1 서로소 집합
